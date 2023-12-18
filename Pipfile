@@ -4,8 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-ipdb = "*"
-pytest = "*"
 
 [dev-packages]
 importlib-metadata = "6.0.0"
